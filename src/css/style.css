@@ -117,21 +117,3 @@ p{
 .animar{
     animation: piscar 1s infinite alternate;
 }
-
-@media screen and (max-width: 700px){ 
-    h1{
-        margin-bottom: 30px;
-    }
-
-    .container .conversor{
-        width: 90%;
-    }
-
-    .container img{
-        width: 90px;
-        margin: 22px;
-        margin-top: 9px;
-    }
-}
-
-
